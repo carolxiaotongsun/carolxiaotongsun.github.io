@@ -68,14 +68,14 @@ font.ratio {
 .naviFont {
     height:100%;
     font-size:36px;
-    font-family: Georgia, Cochin, Times, Cambria, 'Times New Roman', serif;
+    font-family: Tahoma, Georgia, Cochin, Times, Cambria, 'Times New Roman', serif;
     color: #ffffff
 }
 
 .naviManuFont {
     height:80%;
     font-size:24px;
-    font-family: Georgia, Cochin, Times, Cambria, 'Times New Roman', serif;
+    font-family: Tahoma, Georgia, Cochin, Times, Cambria, 'Times New Roman', serif;
     color: #ffffff;
     cursor:pointer
 }

@@ -103,7 +103,7 @@ font.ratio {
 .intereSection {
 	width: 70%;
 	margin-left: 15%;
-	margin-top: 30px
+	margin-top: 70px
 }
 
 .publicateSection {
@@ -116,4 +116,22 @@ font.ratio {
 	width: 100%;
 	margin-top: 20px;
 	margin-bottom: 30px
+}
+
+.profExperienceSection {
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 70px
+}
+
+.researchExperienceSection {
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 70px
+}
+
+.skillSection {
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 70px
 }

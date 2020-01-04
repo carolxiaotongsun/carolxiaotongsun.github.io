@@ -140,7 +140,6 @@ font.ratio {
 	width: 70%;
 	margin-left: 15%;
 	margin-top: 70px
-	margin-bottom: 50px;
 }
 
 .skillDetail {
@@ -152,5 +151,5 @@ font.ratio {
 .footerSection {
 	width: 70%;
 	margin-left: 15%;
-	margin-top: 100px
+	margin-top: 20px
 }

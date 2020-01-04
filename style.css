@@ -147,3 +147,9 @@ font.ratio {
 	margin-top: 10px;
 	margin-bottom: 30px;
 }
+
+.footerSection {
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 70px
+}
